@@ -11,13 +11,11 @@ function yourAnimal() {
 }
 yourAnimal()
 
-function add2(n) {
-  n = 1
-  two = 2
-  n + two  = n
-  return n
+function add2(n,two) {
+  var n = 1
+  var two = 2
+  return n + two
 }
-add2()
 
 var funkyFunction = function() {
   return function() {
