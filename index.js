@@ -12,9 +12,9 @@ function yourAnimal() {
 yourAnimal()
 
 function add2(n,two) {
-  var n = 1
-  var two = 2
-  return  n + two
+   n = 1
+   two = 2
+  return  (n + two)
 }
 add2()
 
