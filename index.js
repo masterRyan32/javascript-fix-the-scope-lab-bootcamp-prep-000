@@ -11,8 +11,8 @@ function yourAnimal() {
 }
 yourAnimal()
 
-function add2(n, two) {
-
+function add2(n) {
+ var two = 2
   return  (two + n)
 }
 add2()
