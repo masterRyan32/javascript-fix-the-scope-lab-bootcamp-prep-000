@@ -14,9 +14,9 @@ yourAnimal()
 function add2(n,two) {
   var n = 1
   var two = 2
-  return n + two
+  return  n + two
 }
-
+add2()
 var funkyFunction = function() {
   return function() {
     return "FUNKY!"
